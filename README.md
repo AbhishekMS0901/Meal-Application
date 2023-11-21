@@ -34,7 +34,7 @@ On clicking any particular search result (any meal), It will open a new page wit
 ## Usage:
 
    - **Search the Meals** -  You can search any meals using the search bar by clicking on that it will open new page and show the meal Details.
-   - **Stop the Stopwatch** - By clicking on add to my favourite list, we can add meals to my favurite list.
+   - **Add to MY Favourite List** - By clicking on add to my favourite list, we can add meals to my favurite list.
    - **Remove Meals from my Favourite List** - By clicking on Remove from my favourite List Button, we can remove meals from my favourite List. . 
 
 
