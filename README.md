@@ -32,7 +32,6 @@ On clicking any particular search result (any meal), It will open a new page wit
 - **Open the Application** - User need to visit to the downloaded project directory and open the index.html file in browser.
 
 ## Usage:
-   ![homepage](E:\CODING_NINJAS_FULL_STACK_WEB_DEVELOPMENT\Stop_Watch_project\image.png)
 
    - **Search the Meals** -  You can search any meals using the search bar by clicking on that it will open new page and show the meal Details.
    - **Stop the Stopwatch** - By clicking on add to my favourite list, we can add meals to my favurite list.
