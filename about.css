@@ -1,0 +1,43 @@
+body
+{
+	background-color:skyblue;
+}
+#home_button
+{
+	width:70px;
+	height:30px;
+	border:1px solid red;
+	border-radius:12px;
+	background-color:red;
+	color:white;
+	margin-top:20px;
+}
+.header_container
+{
+	width:80vw;
+	height:20vh;
+	background-color: skyblue;
+	text-align:right;
+
+}
+.about_container
+{
+	width:300px;
+	height:50vh
+	padding:4px;
+	font-style: oblique;
+	margin-left:600px;
+	color:white;
+	text-align:center;
+}
+#col_11
+{
+	margin-top:250px;
+	display:flex;
+   width:80vw;
+   height:20vh;
+   justify-items: center;
+   background-color:skyblue;
+   margin-left:150px;
+}
+

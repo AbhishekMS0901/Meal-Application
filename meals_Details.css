@@ -1,0 +1,66 @@
+body
+{
+	background-color: Green;
+}
+.header_container
+{
+	display:flex;
+	justify-content:right;
+	margin-right:60px;
+}
+#home_button
+{
+	width:70px;
+	height:30px;
+	border:1px solid red;
+	border-radius:12px;
+	background-color:red;
+	color:white;
+}
+#meal_name
+{
+	color:blue;
+	text-shadow: 1px 1px white;
+	text-align:center;
+	margin-top:-10px;
+}
+#meal_instructions
+{
+	color:white;
+	text-decoration-style: double;
+}
+.Image_instructions_container
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+	width:90vw;
+	height:70vh;
+	margin-left:80px;
+	margin-top:-20px;
+}
+.col_1
+{
+   margin-top:50px;
+   margin-left:60px;
+   margin-bottom:30px;
+   width:90vw;
+   height:10vh;
+   display:flex;
+   flex-wrap:wrap;
+   justify-items: center;
+   background-size:100vw;
+   background-color: blue;
+   padding-left:20px;
+}
+.contact_info
+{
+	display:flex;
+	margin-left:1000px;
+}
+
+a
+{
+text-decoration:none;
+}
+

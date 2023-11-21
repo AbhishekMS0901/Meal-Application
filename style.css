@@ -1,0 +1,136 @@
+.body_style
+{
+	background-color: yellowgreen;
+}
+#product_title
+{
+	display:inline;
+	text-align:center;
+	font-size: 50px;
+	font-weight:bold;
+	color:darkorange;
+	text-shadow: 2px 2px skyblue;
+	border:3px solid red;
+	padding:5px;
+	border-radius:20px;
+	background-color: lightgoldenrodyellow;
+
+}
+.header_container
+{
+	text-align:center;
+	margin-top:100px;
+	padding:10px 10px;
+}
+.welcome_note
+{
+	display:flex;
+	justify-content: center;
+	margin-top:50px;
+
+}
+#welcome_msg
+{
+	display:inline;
+	color:green;
+	font-size:30px;
+	text-shadow:2px 2px white;
+}
+hr{
+border:2px solid red;
+width:90vw;
+}
+#search-form
+{
+	display:flex;
+	justify-content: center;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#search_results_list
+{
+  margin-top:-40px;
+ }
+#search_results_list li{
+	margin-left:350px;
+	width:790px;
+	height:35px;
+	list-style-type:none;
+   background-color: yellowgreen;
+	font-size: 15px;
+
+}
+#search_bar
+{
+	width:800px;
+	padding:10px 10px;
+	height:40px;
+	border:2px solid gold;
+	border-radius: 20px;
+
+}
+#search_button
+{
+	height:40px;
+	width:70px;
+	border:2px solid gold;
+	border-radius:20px;
+	paddig:10px 10px;
+	margin-top:30px;
+
+}
+.latest_meals_container
+{
+	display:flex;
+	justify-content: center;
+	text-align: center;
+	flex-wrap:wrap;
+	
+}
+figcaption
+{
+	color:red;
+}
+.random_dishes_container
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+	text-align:center;
+}
+.col_1
+{
+   margin-top:50px;
+   margin-left:60px;
+   margin-bottom:30px;
+   width:90vw;
+   height:20vh;
+   display:flex;
+   flex-wrap:wrap;
+   justify-items: center;
+   background-size:100vw;
+   background-color: blue;
+   padding-left:20px;
+}
+.contact_info
+{
+	display:flex;
+	margin-left:1000px;
+}
+
+a
+{
+text-decoration:none;
+}
+.style_fav_button
+{
+	background-color:red;
+	border:0.5px solid white;
+	border-radius:10px;
+	margin-left:10px;
+	color:white;
+}
+
+
+
+

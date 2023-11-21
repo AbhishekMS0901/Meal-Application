@@ -1,0 +1,64 @@
+body
+{
+	background-color:skyblue ;
+}
+#Page_heading
+{
+	text-align:center;
+	color:white;
+	text-shadow: 2px 2px red;
+	padding-bottom:2px;
+	margin-top:-5px;
+}
+.remove_button_style
+{
+	color:white;
+	background-color: red;
+	border:1px splid white;
+	border-radius:10px;
+	margin-left:20px;
+
+}
+.li_item_style
+{
+	margin-left:580px;
+	color:white;
+	text-shadow:1px 1px red;
+	font-size: 20px;
+	list-style-type:disc;
+}
+.col_1
+{
+   margin-top:480px;
+   margin-left:60px;
+   margin-bottom:30px;
+   width:90vw;
+   height:20vh;
+   display:flex;
+   flex-wrap:wrap;
+   justify-items: center;
+   background-size:100vw;
+   background-color: blue;
+   padding-left:20px;
+}
+.contact_info
+{
+	display:flex;
+	margin-left:900px;
+}
+
+a
+{
+text-decoration:none;
+}
+#home_button
+{
+	width:70px;
+	height:30px;
+	border:1px solid red;
+	border-radius:12px;
+	background-color:red;
+	color:white;
+	margin-top:20px;
+	margin-left:1300px;
+}
