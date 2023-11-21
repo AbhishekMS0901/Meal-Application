@@ -25,7 +25,7 @@ On clicking any particular search result (any meal), It will open a new page wit
    ## Installation:
 - **Clone Repository** - This application has hosted in Git so first user need to clone the repository using the bellow git command.
   
-      git clone https://github.com/AbhishekMS0901/Stopwatch.git
+      git clone https://github.com/AbhishekMS0901/Meal-Application/tree/main
 
 - **Download ZIP folder of Project** - User can Diresctly download the zip folder of the project.
 
